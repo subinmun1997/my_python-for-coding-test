@@ -8,7 +8,6 @@ result = 0
 for step in steps:
     next_row = row + step[0]
     next_column = column + step[1]
-
     if next_row >= 1 and next_row <=8 and next_column >= 1 and next_column <= 8: #해당 위치로 이동 가능하다면 카운트 증가
         result += 1
 
