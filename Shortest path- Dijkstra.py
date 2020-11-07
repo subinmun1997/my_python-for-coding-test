@@ -18,6 +18,7 @@ def get_smallest_node():
     for i in range(1,n+1):
         if distance[i] < min_value and not visited[i]:
             min_value = distance[i]
+            print(min_value,end=' ')
             index = i
     return index
 
@@ -26,8 +27,12 @@ def dijkstra(start):
     visited[start] = True
     for j in graph[start]:
         distance[j[0]] = j[1]
+        print(graph[start])
+        print(j[0])
+        print(j[1])
     for i in range(n-1):
         now = get_smallest_node()
+        print(now, end=' ')
         visited[now] = True
         for j in graph[now]:
             cost = distance[now] + j[1]
