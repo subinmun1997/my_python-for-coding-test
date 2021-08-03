@@ -9,3 +9,7 @@ def solution(arr, divisor):
     else:
         answer.append(-1)
         return answer
+
+# 한 줄 코드
+# def solution(arr, divisor):
+#  return sorted([n for n in arr if n%d == 0]) or [-1]
