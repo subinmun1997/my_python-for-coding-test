@@ -11,4 +11,4 @@ target = input_data[1]
 print("앞서 적은 원소 개수만큼 문자열을 입력하세요. 구분은 띄어쓰기 한 칸으로 합니다.")
 array = input().split()
 
-print(sequential_search(n,target,array))
+print(sequential_search(n,target,array)) 
