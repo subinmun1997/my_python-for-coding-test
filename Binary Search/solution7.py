@@ -12,6 +12,7 @@ def binary_search(array, target, start, end):
 
 n = int(input())
 array = list(map(int, input().split()))
+array.sort() # 이진 탐색을 수행하기 위해 사전에 정렬 수행
 m = int(input())
 target = list(map(int, input().split()))
 
