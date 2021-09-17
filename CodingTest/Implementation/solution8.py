@@ -9,15 +9,15 @@ data = input()
 result = []
 value = 0
 
-for x in data:
-    if x.isalpha():
+for x in data: # 문자를 하나씩 확인하며
+    if x.isalpha(): # 알파벳인 경우 결과 리스트에 삽입
         result.append(x)
-    else:
+    else: # 숫자는 따로 더하기
         value += int(x)
 
-result.sort()
+result.sort() # 알파벳을 오름차순으로 정렬
 
-if value != 0:
+if value != 0: # 숫자가 하나라도 존재하는 경우 가장 뒤에 삽입
     result.append(str(value))
 
 print(''.join(result))
