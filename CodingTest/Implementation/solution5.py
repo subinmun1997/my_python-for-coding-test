@@ -12,5 +12,5 @@ for i in range(mid,len(temp)):
 
 if result1 == result2:
     print("LUCKY")
-else:
+else: 
     print("READY")
