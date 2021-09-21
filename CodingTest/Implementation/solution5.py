@@ -1,6 +1,6 @@
 n = int(input())
 temp = str(n)
-
+ 
 result1 = 0
 result2 = 0
 mid =  len(temp) // 2
