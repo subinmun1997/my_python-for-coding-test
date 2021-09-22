@@ -7,6 +7,8 @@ def solution(lottos, win_nums):
     zero = lottos.count(0)
     maximum = len(_lottos) + zero
     max_value = 7 - maximum
+    if max_value == 7:
+        max_value = 6
 
     print([max_value, min_value])
 
