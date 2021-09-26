@@ -7,7 +7,7 @@ result = []
 count = 1
 for i in range(1,n+1):
     queue.append(i)
-while len(queue)>0:
+while queue:
     if count != k:
         queue.append(queue.popleft())
         count += 1
