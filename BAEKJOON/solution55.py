@@ -1,10 +1,6 @@
-a = []
-for i in range(10):
-    a.append(int(input()))
+a = [int(input()) for i in range(10)]
 
-div = []
-for i in a:
-    div.append(i%42)
+div = [i%42 for i in a]
 
 div = set(div)
 print(len(div))
