@@ -5,9 +5,9 @@ a = []
 
 for i in range(m, n+1):
     is_sosu = False
+    if i == 2:
+        a.append(i)
     for j in range(2,int(i**0.5)+1):
-        if i == 2:
-            a.append(i)
         if i%j == 0:
             is_sosu = False
             break
