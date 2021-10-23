@@ -1,2 +1,2 @@
 # my_python-for-coding-test
-This is coding test -python
+This is coding test -py
