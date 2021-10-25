@@ -10,7 +10,7 @@ for i in range(length//2):
 for i in range(length//2,length):
     summary -= int(n[i])
 
-# 왼쪽 부분과 오른쪽 부분의 자릿수 합이 동일한지 검사
+# 왼쪽 부분과 오른쪽 부분의 자릿수 합이 동일한지 검사 
 if summary == 0:
     print("LUCKY")
 else:
