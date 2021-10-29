@@ -4,8 +4,6 @@ array = []
 for i in range(3):
     array.append(list(map(int, sys.stdin.readline().split())))
 
-
-
 for i in array:
     count0 = 0
     count1 = 0
