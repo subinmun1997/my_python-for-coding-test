@@ -7,7 +7,7 @@ for i in range(n):
     array.append(int(sys.stdin.readline()))
 
 array.sort()
-print(round(sum(array)//n)) # 산술평균
+print(round(sum(array)/n)) # 산술평균
 
 print(array[len(array)//2]) # 중앙값
 
