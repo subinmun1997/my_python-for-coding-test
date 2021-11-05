@@ -6,9 +6,9 @@ data = list(map(int, sys.stdin.readline().split()))
 
 for i in data:
     if i in card:
-        print(1)
+        print(1, end=' ')
     else:
-        print(0)
+        print(0, end=' ')
 
 '''
 시간 복잡도 관점에서 보면, 어떤 원소가 list에 있는지 판별하는 것은 O(n)이고,
