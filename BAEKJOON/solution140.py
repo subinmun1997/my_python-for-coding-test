@@ -11,6 +11,7 @@ def binary_search(array, target, start, end):
 
 n = int(input())
 array = set(map(int, input().split()))
+array.sort()
 m = int(input())
 data = list(map(int, input().split()))
 
