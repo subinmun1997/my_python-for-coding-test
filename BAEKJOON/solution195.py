@@ -18,7 +18,7 @@ while len(action) > 0:
     nx = dx[key] + now_x
     ny = dy[key] + now_y
 
-    if nx < 0  or ny < 0 or n <= nx or m <= ny:
+    if nx < 0 or ny < 0 or n <= nx or m <= ny:
         continue
 
     else:
