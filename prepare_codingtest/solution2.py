@@ -7,13 +7,16 @@ second = data[1]
 value = 0
 
 while True:
+    for i in range(k):
+        if m == 0:
+            break
+        value += first
+        m -= 1
     if m == 0:
         break
-    else:
-        for i in range(k):
-            value += first
-            m -= 1
-        value += second
-        m -= 1
+    value += second
+    m -= 1
+
+print(value)
 
 print(value)
