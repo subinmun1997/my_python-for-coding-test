@@ -1,9 +1,9 @@
 import heapq
-import sys
+
 
 cards = []
 
-n = int(sys.stdin.readline())
+n = int(input())
 for _ in range(n):
     heapq.heappush(cards, int(input()))
 
