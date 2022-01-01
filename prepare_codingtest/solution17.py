@@ -1,5 +1,5 @@
 n = int(input())
-route = list(map(str, input().split()))
+route = input().split()
 
 x, y = 1, 1
 dx = [0, 0, -1, 1]
