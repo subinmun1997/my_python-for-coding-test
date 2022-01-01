@@ -19,9 +19,9 @@ for b in bag:
     while jewel and b >= jewel[0][0]:
         w, v = heapq.heappop(jewel)
         heapq.heappush(candidate, -v)
-    print(candidate)
+
     if candidate:
         result -= heapq.heappop(candidate)
-        print(result)
+
 
 print(result)
