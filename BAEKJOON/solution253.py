@@ -11,12 +11,10 @@ for i in range(t):
 
     queue = deque(arr)
 
-    rev, front, back = 0, 0, len(queue)-1
+    rev = 0
     flag = 0
     if n == 0:
         queue = []
-        front = 0
-        back = 0
 
     for j in p:
         if j == 'R':
