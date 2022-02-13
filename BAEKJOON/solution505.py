@@ -1,10 +1,11 @@
-s1, s2, s3 = map(int, input().split())
+n = int(input())
 
-dice = [0] * 81
-
-for i in range(1, s1+1):
-    for j in range(1, s2+1):
-        for k in range(1, s3+1):
-            dice[i+j+k] += 1
-
-print(dice.index(max(dice)))
+while True:
+    flag = True
+    for i in str(n):
+        if i != "4" and i != "7":
+            flag = False
+            n -= 1
+    if flag:
+        print(n)
+        break
