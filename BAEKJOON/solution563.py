@@ -1,3 +1,5 @@
+# 조합_set 사용
+
 from itertools import combinations
 
 n, m = map(int, input().split())
