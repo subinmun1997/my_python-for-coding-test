@@ -1,7 +1,7 @@
 def jun(seed, stock):
     buy_stock = 0 # 보유 주식 수
     has_money = seed # 남은 현금
-    for i in range(len(stock)-1):
+    for i in range(len(stock)):
         if has_money >= stock[i]:
             buy_stock += has_money // stock[i]
             has_money -= buy_stock * stock[i]
