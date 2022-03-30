@@ -1,11 +1,16 @@
 n, m = map(int, input().split())
-graph = [list(map(int, input())) for _ in range(n)]
+graph = [list(map(int, input())) for _ in range(n)] # 2차원 리스트의 맵 정보
 
+# DFS로 특정한 노드를 방문한 뒤에 연결된 모든 노드들도 방문
 def dfs(i, j):
+    # 주어진 범위를 벗어나는 경우에는 즉시 종료
     if i < 0 or i >= n or j < 0 or j >= m:
         return False
+    # 현재 노드를 아직 방문하지 않았다면
     if graph[i][j] == 0:
+        # 해당 노드 방문 처리
         graph[i][j] = 1
+        # 상,하,좌,우의 위치도 모두 재귀적으로 호출
         dfs(i-1, j)
         dfs(i+1, j)
         dfs(i, j+1)
@@ -13,6 +18,7 @@ def dfs(i, j):
         return True
     return False
 
+# 모든 노드(위치)에 대하여 음료수 채우기
 result = 0
 for i in range(n):
     for j in range(m):
