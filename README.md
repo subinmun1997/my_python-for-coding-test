@@ -13,7 +13,7 @@ This is coding test -python
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a> | <a href="https://www.acmicpc.net/problem/18258" target="_blank">큐 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |⭕|
 | 03 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1158" target="_blank">1158</a> | <a href="https://www.acmicpc.net/problem/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |⭕|
 | 04 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a> | <a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |⭕|
-| 05 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a> | <a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
+| 05 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a> | <a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |⭕|
 | 06 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a> | <a href="https://www.acmicpc.net/problem/1874" target="_blank">스택 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 07 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a> | <a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 08 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  |
@@ -41,7 +41,8 @@ This is coding test -python
 <details>
 <summary>자료구조2</summary>
 <div markdown="1">
-[백준 문제집](https://www.acmicpc.net/workbook/view/6780)
+
+  [백준 문제집](https://www.acmicpc.net/workbook/view/6780)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a> | <a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/data_structure2/1620">바로가기</a> |
@@ -73,6 +74,7 @@ This is coding test -python
 <details>
 <summary>트리</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/7645)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -243,6 +245,7 @@ This is coding test -python
 <details>
 <summary>동적계획법1</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/7020)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -473,6 +476,7 @@ This is coding test -python
 <details>
 <summary>구현</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/6783)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -883,17 +887,6 @@ This is coding test -python
 </div>
 </details>
 
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
-</div>
-</details>
 
 <details>
 <summary>백트래킹</summary>
