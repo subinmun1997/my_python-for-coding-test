@@ -74,6 +74,7 @@ This is coding test -python
 <details>
 <summary>트리</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/7645)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -244,6 +245,7 @@ This is coding test -python
 <details>
 <summary>동적계획법1</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/7020)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -474,6 +476,7 @@ This is coding test -python
 <details>
 <summary>구현</summary>
 <div markdown="1">
+  
 [백준 문제집](https://www.acmicpc.net/workbook/view/6783)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
