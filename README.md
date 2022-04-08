@@ -1054,7 +1054,7 @@ This is coding test -python
 <div markdown="1">
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7276)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/3029" target="_blank">3029</a> | <a href="https://www.acmicpc.net/problem/3029" target="_blank">경고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |⭕|
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720</a> | <a href="https://www.acmicpc.net/problem/11720" target="_blank">숫자의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |⭕|
