@@ -19,7 +19,6 @@ for i in range(m, n+1):
     if check(i):
         data.append(i)
 
-print(data)
 if data:
     print(sum(data))
     print(min(data))
