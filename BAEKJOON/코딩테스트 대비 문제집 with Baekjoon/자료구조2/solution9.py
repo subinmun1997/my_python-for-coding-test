@@ -28,7 +28,7 @@ for _ in range(m):
     elif order[0] == "solved":
         key[int(order[1])] = True
         while key[-maxHeap[0][1]]:
-            print(heapq.heappop(maxHeap))
+            heapq.heappop(maxHeap)
         while key[minHeap[0][1]]:
-            print(heapq.heappop(minHeap))
+            heapq.heappop(minHeap)
 
