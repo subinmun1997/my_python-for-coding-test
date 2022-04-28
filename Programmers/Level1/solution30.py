@@ -1,7 +1,7 @@
 def solution(n):
     array = ''
     while n:
-        array += str((n%3))
+        array += str(n%3)
         n //= 3
     array = int(array, 3)
     return array
