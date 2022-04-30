@@ -3,6 +3,7 @@ from collections import deque
 n, m = map(int, input().split())
 dx = [1, -1, 0, 0]
 dy = [0, 0, -1, 1]
+# 빨간 구슬 파란 구슬 따로 방문 표시를 해주기 위함
 visited = [[[[False] * m for _ in range(n)] for _ in range(m)] for _ in range(n)]
 s = []
 
