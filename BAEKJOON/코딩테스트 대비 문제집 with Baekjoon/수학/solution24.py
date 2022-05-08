@@ -21,6 +21,6 @@ def is_sangNum(num):
 
 
 n = int(input())
-for i in range(7, n+1):
+for i in range(2, n+1):
     if is_prime(i) and is_sangNum(i):
         print(i)
