@@ -30,6 +30,7 @@ def solution(numbers, hand):
                 else:
                     answer += 'L'
                     s_left = pos[i]
+
     return answer
 
 print(solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5], "right"))
