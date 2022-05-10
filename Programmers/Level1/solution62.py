@@ -4,9 +4,7 @@ def solution(new_id):
 
     temp = ''
     for i in new_id:
-        if i.isalnum():
-            temp += i
-        if i in possible:
+        if i.isalnum() or i in possible:
             temp += i
     new_id = temp
 
