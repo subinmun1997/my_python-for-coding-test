@@ -30,9 +30,9 @@ This is coding test -python
 | 19 |                      | <a href="https://www.acmicpc.net/problem/1021" target="_blank">1021</a> | <a href="https://www.acmicpc.net/problem/1021" target="_blank">회전하는 큐</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |⭕|
 | 20 |                      | <a href="https://www.acmicpc.net/problem/5397" target="_blank">5397</a> | <a href="https://www.acmicpc.net/problem/5397" target="_blank">키로거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
 | 21 |                      | <a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a> | <a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
-| 22 |                      | <a href="https://www.acmicpc.net/problem/5430" target="_blank">5430</a> | <a href="https://www.acmicpc.net/problem/5430" target="_blank">AC</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||
-| 23 |                      | <a href="https://www.acmicpc.net/problem/1863" target="_blank">1863</a> | <a href="https://www.acmicpc.net/problem/1863" target="_blank">스카이라인 쉬운거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||
-| 24 |                      | <a href="https://www.acmicpc.net/problem/22866" target="_blank">22866</a> | <a href="https://www.acmicpc.net/problem/22866" target="_blank">탑 보기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> ||
+| 22 |                      | <a href="https://www.acmicpc.net/problem/5430" target="_blank">5430</a> | <a href="https://www.acmicpc.net/problem/5430" target="_blank">AC</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
+| 23 |                      | <a href="https://www.acmicpc.net/problem/1863" target="_blank">1863</a> | <a href="https://www.acmicpc.net/problem/1863" target="_blank">스카이라인 쉬운거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
+| 24 |                      | <a href="https://www.acmicpc.net/problem/22866" target="_blank">22866</a> | <a href="https://www.acmicpc.net/problem/22866" target="_blank">탑 보기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |⭕|
 
 
 </div>
