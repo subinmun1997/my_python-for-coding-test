@@ -1,5 +1,5 @@
 # my_python-for-coding-test
-This is coding test -python
+This is coding test python
 
 <details>
 <summary>자료구조</summary>
