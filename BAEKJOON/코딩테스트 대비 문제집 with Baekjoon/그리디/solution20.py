@@ -14,12 +14,9 @@ else:
     while boxs:
         for crane in cranes:
             for box in boxs:
-                print(crane, box)
-                print(boxs)
                 if crane >= box:
                     boxs.remove(box)
                     break
-
         answer += 1
 
 print(answer)
