@@ -4,11 +4,8 @@ t = int(input())
 
 for i in range(t):
     count = 1
-    a = []
     n = int(input())
-
-    a = [list(map(int, input().split())) for _ in range(n)]
-    a.sort()
+    a = sorted(list(map(int, input().split())) for _ in range(n))
     m = a[0][1]
 
     for i in range(1, n):
