@@ -20,7 +20,7 @@ def dfs(x, y):
 
 result = 0 # 단지 수
 cnt = 0 # 집의 수
-answer= []
+answer = []
 for i in range(n):
     for j in range(n):
         if dfs(i, j):
