@@ -2,7 +2,7 @@ n = int(input())
 graph = [list(map(int, input())) for _ in range(n)]
 
 def dfs(x, y):
-    if x < 0 or x >= n or y < 0  or y >= n:
+    if x < 0 or x >= n or y < 0 or y >= n:
         return False
 
     if graph[x][y] == 1:
