@@ -1,5 +1,4 @@
 n = int(input())
-answer = []
 
 def hanoi(n, start, end, mid):
     if n == 1:
