@@ -3,7 +3,6 @@ croatia = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 
 count = 0
 for i in croatia:
-    if i in word:
-        word = word.replace(i, '0')
+    word = word.replace(i, '0')
 
 print(len(word))
