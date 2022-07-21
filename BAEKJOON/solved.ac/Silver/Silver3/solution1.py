@@ -1,8 +1,12 @@
-import math, sys
-input = sys.stdin.readline
+n = int(input())
+dp = [0] * 1000001
 
-a, b, v = map(int, input().split())
+for i in range(2, n+1):
+    dp[i] = dp[i-1] + 1
 
-day = 1
-day += math.ceil((v-a) / (a-b))
-print(day)
+    if i%3 == 0:
+        dp[i] = min(dp[i], dp[i//3]+1)
+    if i%2 == 0:
+        dp[i] = min(dp[i], dp[i//2]+1)
+
+print(dp[n])
