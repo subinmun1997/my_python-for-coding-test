@@ -7,7 +7,7 @@ pos = list(map(int, input().split()))
 count = 0
 for i in pos:
     idx = queue.index(i)
-    if idx < len(queue) - idx:
+    if idx < len(queue) - idx: # 앞 -> 뒤 이동
         while True:
             if queue[0] == i:
                 queue.popleft()
@@ -15,7 +15,7 @@ for i in pos:
             else:
                 queue.append(queue.popleft())
                 count += 1
-    else:
+    else: # 뒤 -> 앞 이동
         while True:
             if queue[0] == i:
                 queue.popleft()
