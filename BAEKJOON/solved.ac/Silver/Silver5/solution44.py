@@ -8,7 +8,5 @@ for i in range(n):
 
 for i in range(n):
     if medals[idx][1:] == medals[i][1:]:
-        #print(medals[idx][1:])
-        #print(medals[i][1:])
         print(i+1)
         break
