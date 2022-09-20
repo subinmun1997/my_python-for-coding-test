@@ -4,8 +4,8 @@ result = []
 for i in data:
     temp = i.split('+')
     cnt = 0
-    for i in temp:
-        cnt += int(i)
+    for j in temp:
+        cnt += int(j)
     result.append(cnt)
 
 answer = result[0]
