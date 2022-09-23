@@ -7,7 +7,6 @@ def bfs(x, y):
     queue = deque()
     queue.append((x, y))
 
-    num = 2
     while queue:
         x, y = queue.popleft()
         for i in range(4):
