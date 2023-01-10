@@ -18,7 +18,7 @@ This is coding test python
 | 07 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a> | <a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
 | 08 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
 | 09 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1966" target="_blank">1966</a> | <a href="https://www.acmicpc.net/problem/1966" target="_blank">프린터 큐</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
-| 10 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a> | <a href="https://www.acmicpc.net/problem/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
+| 10 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a> | <a href="https://www.acmicpc.net/problem/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
 | 11 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2504" target="_blank">2504</a> | <a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |⭕|
 | 12 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2800" target="_blank">2800</a> | <a href="https://www.acmicpc.net/problem/2800" target="_blank">괄호 제거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
 | 13 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2493" target="_blank">2493</a> | <a href="https://www.acmicpc.net/problem/2493" target="_blank">탑</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
@@ -32,7 +32,7 @@ This is coding test python
 | 21 |                      | <a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a> | <a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |⭕|
 | 22 |                      | <a href="https://www.acmicpc.net/problem/5430" target="_blank">5430</a> | <a href="https://www.acmicpc.net/problem/5430" target="_blank">AC</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
 | 23 |                      | <a href="https://www.acmicpc.net/problem/1863" target="_blank">1863</a> | <a href="https://www.acmicpc.net/problem/1863" target="_blank">스카이라인 쉬운거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |⭕|
-| 24 |                      | <a href="https://www.acmicpc.net/problem/22866" target="_blank">22866</a> | <a href="https://www.acmicpc.net/problem/22866" target="_blank">탑 보기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |⭕|
+| 24 |                      | <a href="https://www.acmicpc.net/problem/22866" target="_blank">22866</a> | <a href="https://www.acmicpc.net/problem/22866" target="_blank">탑 보기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> ||
 
 
 </div>
