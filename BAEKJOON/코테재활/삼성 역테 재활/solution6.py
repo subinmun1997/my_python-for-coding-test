@@ -30,6 +30,7 @@ def exec(x, y):
     for i in range(4):
         temp = board[x][y]
         for j in range(3):
+            # 012, 123, 230, 301
             t = (i+j)%4
             nx = x + dx[t]
             ny = y + dy[t]
