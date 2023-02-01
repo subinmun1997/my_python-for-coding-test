@@ -30,7 +30,7 @@ def bfs(a, b):
 
 result = 0
 while True:
-    visited = [[0] * (n+1) for _ in range(n+1)]
+    visited = [[0] * (n) for _ in range(n)]
     flag = 0
     for i in range(n):
         for j in range(n):
