@@ -26,11 +26,10 @@ r, c, k = map(int, input().split())
 graph = [list(map(int, input().split())) for _ in range(3)]
 
 for i in range(101):
-    try:
+    if r <= len(graph) and c <= len(graph[0]):
         if graph[r-1][c-1] == k:
             print(i)
             break
-    except: pass
 
     if len(graph) < len(graph[0]): # C연산
         # zip함수를 이용한 전치행렬
