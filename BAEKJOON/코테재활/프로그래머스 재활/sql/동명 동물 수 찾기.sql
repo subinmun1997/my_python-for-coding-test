@@ -1,0 +1,13 @@
+SELECT NAME, COUNT(NAME) AS COUNT
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL
+GROUP BY NAME
+HAVING COUNT(NAME) >= 2
+ORDER BY NAME ASC;
+
+'''
+<GROUP BY>
+특정 컬럼을 그룹화 하는 GROUP BY
+특정 컬럼을 그룹화한 결과에 조건을 거는 HAVING
+(WHERE는 그룹화 하기 전에 조건을 거는 것이고, HAVING은 그룹화 후에 조건을 거는 것)
+'''
